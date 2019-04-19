@@ -4,14 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class PlayBtnController : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
 	
 	void OnMouseDown()
     {
-        SceneManager.LoadScene("Level1");
+        PlayerPrefs.SetInt("NextLevel", 2);
+        SceneManager.LoadScene("Level-1");
     }
 }
