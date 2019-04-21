@@ -15,7 +15,7 @@ Animaatioiden luomisessa käytettiin Unityn animaattoria, jonka avulla jokaiseen
 Eniten ongelmia aiheutti grafiikan hyödyntäminen Unityn tilemapin yhteydessä, sillä erikokoisten ja muotoisten kuvien sovittaminen tilemappiin osoittautui hankalaksi ja aikaavieväksi. Lopulta päädyin tilesettiin, joka sisälsi vain neliön muotoisia "palikoita". Toisessa tasossa mahdollisuus kulkea tiettyjen esteiden läpi on tarkoituksenmukaista, eikä virhe. Myös ruohoon kuoleminen tietyissä kohdissa on tarkoituksenmukaista.
 
 Mielestäni lopputyö onnistui hyvin aikaresursseihin nähden. Pelin mekaniikat toimivat halutusti, 
-core-loop löytyy, bugit on karsittu pois ja myös grafiikka/musiikki on huomioitu. Pelissä on selkeä taivoite ja toimintaperiaate päästä eteenpäin ja voittaa. Mikäli kehitykseen olisi ollut enemmän aikaa, pelin mekaniikkoja olisi voinut vielä hioa ja lisätä erilaisia esteitä sekä tasoja. 
+core-loop löytyy, bugit on karsittu pois ja myös grafiikka/musiikki on huomioitu. Pelissä on selkeä taivoite ja toimintaperiaate päästä eteenpäin ja voittaa. Mikäli kehitykseen olisi ollut enemmän aikaa, pelin mekaniikkoja olisi voinut vielä hioa ja lisätä erilaisia esteitä sekä tasoja. Tällä hetkellä pelattavia tasoja on yhteensä 3.
 
 Lopputyöhön käytetut aikaresurssit: +40h.
 
